@@ -1,2 +1,2 @@
 # cs231n_assignment
-An repository storing all my cs231n assignments
+Please notice that this is a modified version of cs231n, being conducted in HKUST during Spring 2019.
